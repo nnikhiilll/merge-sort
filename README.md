@@ -1,2 +1,2 @@
 # merge-sort
-akes in an unsorted list and performs Merge Sort by recursively splitting the input list, and then merging both of the sorted halves of that input list.
+takes in two sorted lists and returns a single sorted list made up of the elements of each of the two input lists.
